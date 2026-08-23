@@ -1,8 +1,8 @@
 # Hi there, I'm Lê Việt Đức 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=google-chrome)](https://your-portfolio-site.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)][(https://linkedin.com](https://www.linkedin.com/in/ducleviet/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:levietduc.1007@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=google-chrome)](https://hatgaomuonbay.vercel.app/)
 
 ---
 
