@@ -59,6 +59,4 @@ My work lies at the intersection of **Mechanical Design & Machinery**, **Computa
 ```text
 ├── Mechanical Design & Machinery (CAD Modeling, Mechanism Synthesis, DFM/DFA, CNC Machining)
 ├── Computational Mechanics & Simulation (FEA / CFD / Nonlinear Laminated Plates)
-├── Physics-Informed Neural Networks (Energy-based PINNs, PDE Solvers)
-├── Computer Vision & Metrology (Stereo Vision, Spatial Matrix Transformations, YOLO)
-└── Embedded & Robotics (ESP32, Microcontroller Telemetry, Sensor Integration)
+└── Physics-Informed Neural Networks (Energy-based PINNs, PDE Solvers)
