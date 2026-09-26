@@ -17,7 +17,7 @@ My work lies at the intersection of **Mechanical Design & Machinery**, **Computa
   - **Computational Mechanics & Simulation:** FEA / CFD, composite laminated plates & shell theories (FSDT, nonlinear von Kármán).
   - **Physics-Informed Machine Learning (PINNs):** Energy-based PINNs and deep learning frameworks for mechanics & PDEs.
 - 🛠️ **Engineering Toolkit:** SolidWorks, AutoCAD, Ansys (FEA/CFD), Python, C/C++, PyTorch, OpenCV, MATLAB, LaTeX.
-- 🌐 **Languages:** Vietnamese (Native), English (TOEIC 965), Japanese (JLPT N3 / N2 candidate).
+- 🌐 **Languages:** Vietnamese (Native), English (TOEIC 965), Japanese (JLPT N3 / N2 preparation in progress).
 
 ---
 
